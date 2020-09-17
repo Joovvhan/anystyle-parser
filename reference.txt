@@ -1,0 +1,44 @@
+[1] Merlijn Blaauw and Jordi Bonada. 2017. A neural parametric singing synthesizer modeling timbre and expression from natural songs. Applied Sciences 7, 12 (2017), 1313.
+[2] Paul Boersma et al. 2002. Praat, a system for doing phonetics by computer. Glot international 5 (2002).
+[3] Jamie Callan, Mark Hoy, Changkuk Yoo, and Le Zhao. 2009. Clueweb09 data set. 
+[4] Zhe Cao, Tao Qin, Tie-Yan Liu, Ming-Feng Tsai, and Hang Li. 2007. Learning to rank: from pairwise approach to listwise approach. In Proceedings ofthe 24th international conference on Machine learning. 129–136.
+[5] Pritish Chandna, Merlijn Blaauw, Jordi Bonada, and Emilia Gomez. 2019. WGANS- ing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN. arXiv preprint arXiv:1903.10729 (2019).
+[6] Yu-Ren Chien, Hsin-Min Wang, Shyh-Kang Jeng, Yu-Ren Chien, Hsin-Min Wang, and Shyh-Kang Jeng. 2016. Alignment of lyrics with accompanied singing audio based on acoustic-phonetic vowel likelihood modeling. TASLP 24, 11 (2016), 1998–2008.
+[7] Prafulla Dhariwal, Heewoo Jun, Christine Payne, Jong Wook Kim, Alec Radford, and Ilya Sutskever. 2020. Jukebox: A generative model for music. arXiv preprint arXiv:2005.00341 (2020).
+[8] Zhiyong Zhang Dong Wang, Xuewei Zhang. 2015. THCHS-30 : A Free Chinese Speech Corpus. http://arxiv.org/abs/1512.01882
+[9] Georgi Dzhambazov et al. 2017. Knowledge-based probabilistic modeling for tracking lyrics in music audio signals. Ph.D. Dissertation. Universitat Pompeu Fabra.
+[10] Hiromasa Fujihara, Masataka Goto, Jun Ogata, and Hiroshi G Okuno. 2011. Lyric- Synchronizer: Automatic synchronization system between musical audio signals and lyrics. IJSTSP 5, 6 (2011), 1252–1261.
+[11] Daniel Griffin and Jae Lim. 1984. Signal estimation from modified short-time Fourier transform. ICASSP 32, 2 (1984), 236–243.
+[12] Chitralekha Gupta, Rong Tong, Haizhou Li, and Ye Wang. 2018. Semi-supervised Lyrics and Solo-singing Alignment.. In ISMIR. 600–607.
+[13] Chitralekha Gupta, Emre Yılmaz, and Haizhou Li. 2019. Acoustic Modeling for Automatic Lyrics-to-Audio Alignment. arXiv preprint arXiv:1906.10369 (2019).
+[14] Romain Hennequin, Anis Khlif, Felix Voituret, and Manuel Moussalam. 2019. Spleeter: A fast and state-of-the art music source separation tool with pre-trained models. In Proc. International Society for Music Information Retrieval Conference.
+[15] Yukiya Hono, Kei Hashimoto, Keiichiro Oura, Yoshihiko Nankaku, and Keiichi Tokuda. 2019. Singing Voice Synthesis Based on Generative Adversarial Networks. In ICASSP 2019. IEEE, 6955–6959.
+[16] Andrew J Hunt and Alan W Black. 1996. Unit selection in a concatenative speech synthesis system using a large speech database. In ICASSP 1996, Vol. 1. IEEE, 373–376.
+[17] Herbert Jaeger. 2002. Tutorial on training recurrent neural networks, covering BPPT, RTRL, EKFandthe" echo state network" approach. Vol. 5. GMD-Forschungszentrum Informationstechnik Bonn.
+[18] Nal Kalchbrenner, Erich Elsen, Karen Simonyan, Seb Noury, Norman Casagrande, Edward Lockhart, Florian Stimberg, Aaron van den Oord, Sander Dieleman, and Koray Kavukcuoglu. 2018. Efficient neural audio synthesis. arXiv preprint arXiv:1802.08435 (2018).
+[19] Juntae Kim, Heejin Choi, Jinuk Park, Sangjin Kim, Jongjin Kim, and Minsoo Hahn. 2018. Korean Singing Voice Synthesis System based on an LSTM Recurrent Neural Network. In INTERSPEECH2018. ISCA.
+[20] Diederik P Kingma and Jimmy Ba. 2014. Adam: A method for stochastic opti- mization. arXiv preprint arXiv:1412.6980 (2014).
+[21] Juheon Lee, Hyeong-Seok Choi, Chang-Bin Jeon, Junghyun Koo, and Kyogu Lee. 2019. Adversarially Trained End-to-end Korean Singing Voice Synthesis System. arXiv preprint arXiv:1908.01919 (2019).
+[22] Hao Li, Yongguo Kang, and Zhenyu Wang. 2018. EMPHASIS: An emotional phoneme-based acoustic model for speech synthesis system. arXiv preprint arXiv:1806.09276 (2018).
+[23] Wen Li, Limin Wang, Wei Li, Eirikur Agustsson, and Luc Van Gool. 2017. Webvi- sion database: Visual learning and understanding from web data. arXiv preprint arXiv:1708.02862 (2017).
+[24] Peiling Lu, Jie Wu, Jian Luan, Xu Tan, and Li Zhou. 2020. XiaoiceSing: A High-Quality and Integrated Singing Voice Synthesis System. arXiv preprint arXiv:2006.06261 (2020).
+[25] Michael McAuliffe, Michaela Socolof, Sarah Mihuc, Michael Wagner, and Morgan Sonderegger. 2017. Montreal Forced Aligner: Trainable Text-Speech Alignment Using Kaldi. In Interspeech. 498–502.
+[26] Annamaria Mesaros and Tuomas Virtanen. 2008. Automatic alignment of music audio and lyrics. In Proceedings ofthe 11th Int. Conference on Digital Audio Effects (DAFx-08).
+[27] Kazuhiro Nakamura, Kei Hashimoto, Keiichiro Oura, Yoshihiko Nankaku, and Keiichi Tokuda. 2019. Singing voice synthesis based on convolutional neural networks. arXiv preprint arXiv:1904.06868 (2019).
+[28] Thi Hao Nguyen. 2018. A Study on Correlates ofAcoustic Features to Emotional Singing Voice Synthesis. (2018).
+[29] Masanari Nishimura, Kei Hashimoto, Keiichiro Oura, Yoshihiko Nankaku, and Keiichi Tokuda. 2016. Singing Voice Synthesis Based on Deep Neural Networks.. In Interspeech. 2478–2482.
+[30] Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, and Koray Kavukcuoglu. 2016. Wavenet: A generative model for raw audio. arXiv preprint arXiv:1609.03499 (2016).
+[31] Wei Ping, Kainan Peng, and Jitong Chen. 2019. ClariNet: ParallelWave Generation in End-to-End Text-to-Speech. In ICLR.
+[32] Tao Qin, Tie-Yan Liu, Jun Xu, and Hang Li. 2010. LETOR: A benchmark collection for research on learning to rank for information retrieval. Information Retrieval 13, 4 (2010), 346–374.
+[33] Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. 2020. FastSpeech 2: Fast and High-Quality End-to-End Text-to-Speech. arXiv preprint arXiv:2006.04558 (2020).
+[34] Yi Ren, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. 2019. FastSpeech: Fast, Robust and Controllable Text to Speech. arXiv preprint arXiv:1905.09263 (2019).
+[35] Bidisha Sharma, Chitralekha Gupta, Haizhou Li, and Ye Wang. 2019. Automatic Lyrics-to-audio Alignment on Polyphonic Music Using Singing-adapted Acoustic Models. In ICASSP 2019. IEEE, 396–400.
+[36] Jonathan Shen, Ruoming Pang, Ron J Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, Rj Skerrv-Ryan, et al. 2018. Natural tts synthesis by conditioning wavenet on mel spectrogram predic- tions. In ICASSP 2018. IEEE, 4779–4783.
+[37] Hideyuki Tachibana, Katsuya Uenoyama, and Shunsuke Aihara. 2018. Efficiently trainable text-to-speech system based on deep convolutional networks with guided attention. In ICASSP 2018. IEEE, 4784–4788.
+[38] Marti Umbert, Jordi Bonada, Masataka Goto, Tomoyasu Nakano, and Johan Sund- berg. 2015. Expression control in singing voice synthesis: Features, approaches, evaluation, and challenges. IEEE Signal Processing Magazine 32, 6 (2015), 55–73.
+[39] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems. 5998–6008.
+[40] Zhizheng Wu, Oliver Watts, and Simon King. 2016. Merlin: An Open Source Neural Network Speech Synthesis System.. In SSW. 202–207.
+[41] Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Russ R Salakhutdinov, and Quoc V Le. 2019. Xlnet: Generalized autoregressive pretraining for language understanding. In Advances in neural information processing systems. 5754–5764.
+[42] Yuan-Hao Yi, Yang Ai, Zhen-Hua Ling, and Li-Rong Dai. 2019. Singing Voice Synthesis Using Deep Autoregressive Neural Networks for Acoustic Modeling. (2019).
+[43] Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J Weiss, Ye Jia, Zhifeng Chen, and Yonghui Wu. 2019. LibriTTS: A corpus derived from librispeech for text-to- speech. arXiv preprint arXiv:1904.02882 (2019).
+[44] Liqiang Zhang, Chengzhu Yu, Heng Lu, Chao Weng, Yusong Wu, Xiang Xie, Zijin Li, and Dong Yu. 2019. Learning Singing From Speech. arXiv preprint arXiv:1912.10128 (2019).
